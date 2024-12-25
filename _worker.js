@@ -2,8 +2,7 @@
 let 快速订阅访问入口= ['auto'];
 let addresses = ['icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路'];
-let addressesapi = ['https://github.com/hckwon767/CLASH/blob/main/addressesapi.txt',
-	'https://addressesapi.090227.xyz/CloudFlareYes',];
+let addressesapi = [];
 
 let addressesnotls = [];
 let addressesnotlsapi = [];
