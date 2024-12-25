@@ -1,7 +1,8 @@
 
 let 快速订阅访问入口= ['auto'];
 let addresses = [];
-let addressesapi = [];
+let addressesapi = ['https://github.com/hckwon767/CLASH/blob/main/addressesapi.txt',
+	'https://addressesapi.090227.xyz/CloudFlareYes',];
 
 let addressesnotls = [];
 let addressesnotlsapi = [];
